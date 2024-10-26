@@ -97,7 +97,7 @@ while true; do
               break
               ;;
               
-          "Видалити ноду Morph)
+          "Видалити ноду Morph")
               echo "Видалення ноди Morph..."
               sudo rm -rf ~/.morph
               sudo docker system prune -a -f
